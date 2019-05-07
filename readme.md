@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 fvdsfdsq
 fdsqs
 fdsqsgdfg
@@ -7,4 +7,3 @@ je suis en c4
 =======
 non nonnbcbnxhfdhhf
 je suis sur master
->>>>>>> c063518... modif apres récupération stash
